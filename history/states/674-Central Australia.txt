@@ -3,7 +3,10 @@ state={
 	id=674
 	name="STATE_674"
 	impassable = yes
-
+	resources={
+		oil=2
+	}
+	
 	history={
 		owner = AST
 		buildings = {
